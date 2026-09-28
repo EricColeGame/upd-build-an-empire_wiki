@@ -25,12 +25,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Codes, Guides, Upgrades & Empire Building Strategies",
   description: "Your ultimate guide to UPD Build An Empire on Roblox! Explore active working codes, beginner guides, upgrade tips, building strategies, and empire progression.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://upd-build-an-empire.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://upd-build-an-empire.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@upd-build-an-empire.wiki",
   gameUrl: "https://www.roblox.com/games/119858060335682/Build-an-Empire",
   heroVideoId: "A5AkAN1FBbo", // Roblox [UPD] Build an Empire gameplay showcase (DexaroGG)
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://www.roblox.com/communities/34815389/The-Art-Of-Games",
+    youtube: "https://www.youtube.com/watch?v=A5AkAN1FBbo",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",

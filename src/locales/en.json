@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "UPD Build An Empire Wiki",
+    "shortName": "UPD Empire",
+    "tagline": "Codes, Guides, Upgrades & Empire Building Strategies",
+    "description": "Your ultimate guide to UPD Build An Empire on Roblox! Explore active working codes, beginner guides, upgrade tips, building strategies, and empire progression.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "UPD Build An Empire Wiki - Codes, Guide & Updates",
+      "description": "Explore UPD Build An Empire Wiki for codes, beginner guides, upgrade tips, building strategies, and the latest Roblox empire simulator updates."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Roblox Empire Building Simulator",
+      "title": "UPD Build An Empire Wiki",
+      "description": "UPD Build An Empire is a Roblox building and progression simulator where players expand their empire, unlock upgrades, collect resources, and grow their kingdom through strategic development.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "22M+ Total Visits",
+        "Empire Buildings & Units",
+        "Active Codes",
+        "Weekly Updates"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "secondaryCta": "Empire Tier List",
       "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "videoLabel": "Gameplay showcase"
     },
     "updates": {
       "title": "Latest Updates",
@@ -51,27 +51,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your UPD Build An Empire Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Start from a tiny plot of land and learn the core building, resource, and upgrade loop of UPD Build An Empire."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Fastest Progression",
+          "description": "Grow your empire quickly with the most efficient resource, research, and Empire Level routes."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Money Methods",
+          "description": "Maximize coins and resources with the best selling, farming, and offline income strategies."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Build an Army",
+          "description": "Recruit soldiers, Giants, Medics, and siege weapons to defend your empire and capture flags."
         }
       ]
     },
@@ -79,17 +79,17 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Empire Upgrades",
+        "Best Money Methods",
+        "Army & Defense"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first plot of land to a thriving empire.",
+          "href": "/guide/upd-build-an-empire-beginner-guide-2026"
         },
         {
           "badge": "Updated",
@@ -99,58 +99,58 @@
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Buildings Database",
+          "description": "Farms, mines, houses, castles, and research buildings with costs and bonuses.",
+          "href": "/guide/upd-build-an-empire-buildings-list"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Best Empire Upgrades",
+          "description": "The optimal order to spend coins on buildings, research, and population.",
+          "href": "/guide/upd-build-an-empire-best-upgrades"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Army & Units Guide",
+          "description": "Soldiers, Giants, Medics, and siege weapons compared with stats and roles.",
+          "href": "/guide/upd-build-an-empire-army-units-guide"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Money Making Guide",
+          "description": "Fast coin and resource strategies, including offline income and selling tips.",
+          "href": "/guide/upd-build-an-empire-how-to-get-money-fast"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Map & Flag Guide",
+          "description": "Capture flags, control territory, and expand your empire across the map.",
+          "href": "/maps/upd-build-an-empire-map-guide"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Empire Tier List",
+          "description": "All buildings and units ranked by value for early, mid, and late game.",
+          "href": "/tier-list/upd-build-an-empire-tier-list"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Update Log",
+          "description": "Every balance change, new building, and event tracked in one place.",
+          "href": "/updates"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is UPD Build An Empire?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "UPD Build An Empire is a Roblox building and progression simulator where players start with a tiny piece of land and slowly turn it into a huge empire. Build farms, mines, houses, and castles, grow your population, produce resources, and keep getting richer.",
+        "Research upgrades to unlock stronger buildings and bonuses, then build an army with soldiers, Giants, Medics, and siege weapons. Fight other empires, capture flags, take control of the map, and upgrade your Empire Level to become the best."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "The Art Of Games"
         },
         {
           "label": "Platform",
@@ -158,158 +158,158 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Simulation / Tycoon"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "22M+"
         },
         {
           "label": "Favorites",
-          "value": "243K+"
+          "value": "204K+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Max Players",
+          "value": "6"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Updates",
+          "value": "Weekly"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore UPD Build An Empire Wiki",
+      "description": "Master your empire on Roblox with essential progression guides, active codes, a complete buildings database, and optimal upgrade strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
+          "name": "UPD Build An Empire Working Codes",
+          "description": "Redeem the latest working codes to claim free coins, resources, boost items, and exclusive rewards before they expire.",
+          "href": "/codes/upd-build-an-empire-codes",
           "displayType": "code-box",
           "highlights": [
             {
               "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "detail": "COMING-SOON - No active codes currently available"
             },
             {
               "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "detail": "STAY-TUNED - Check back soon for new codes"
             },
             {
               "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "detail": "Codes are case-sensitive; redeem them in the game settings menu"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
+          "name": "Beginner Guide: How to Start and Grow",
+          "description": "Step-by-step beginner guide covering your first plot of land, building placement, resource production, and early Empire Level progression.",
+          "href": "/guide/upd-build-an-empire-beginner-guide-2026",
           "displayType": "feature-cards",
           "highlights": [
             {
               "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "detail": "Place your first farm, mine, and house to start producing resources"
             },
             {
               "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "detail": "Sell resources for coins and reinvest into new buildings"
             },
             {
               "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "detail": "Research upgrades to unlock stronger buildings and bonuses"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Buildings & Units Tier List",
+          "description": "Complete breakdown of all buildings and army units ranked by value, income, and combat strength.",
+          "href": "/tier-list/upd-build-an-empire-tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
               "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "detail": "Castle & Research Lab - Highest long-term value and unlocks"
             },
             {
               "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "detail": "Gold Mine, Farm & Barracks - Reliable income and army growth"
             },
             {
               "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "detail": "House & Warehouse - Solid population and storage upgrades"
             },
             {
               "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "detail": "Basic Decorations - Low priority for early progression"
             }
           ]
         },
         {
           "order": 4,
           "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
+          "description": "Optimal order to spend your coins: expand production buildings, unlock research, and raise your Empire Level efficiently.",
+          "href": "/guide/upd-build-an-empire-best-upgrades",
           "displayType": "feature-cards",
           "highlights": [
             {
               "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "detail": "Resource Production - More farms and mines fund everything else"
             },
             {
               "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "detail": "Research Lab - Unlocks stronger buildings and passive bonuses"
             },
             {
               "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "detail": "Population Housing - More civilians means faster output"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
+          "name": "How to Get Money Fast",
+          "description": "Top coin-making strategies, selling tips, offline income setups, and efficient resource farming routes.",
+          "href": "/guide/upd-build-an-empire-how-to-get-money-fast",
           "displayType": "feature-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Sell Smart",
+              "detail": "Sell high-value resources when prices are up instead of stockpiling"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Offline Income",
+              "detail": "Keep production running so your empire earns while you are away"
             },
             {
               "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "detail": "Spend coins on new buildings to keep your income curve rising"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
+          "name": "Empire Expansion & Map Control",
+          "description": "Unlock more land, expand your base layout, and capture flags to control territory across the map.",
+          "href": "/guide/upd-build-an-empire-empire-expansion",
           "displayType": "feature-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Expand",
+              "detail": "Buy new land plots to fit more production and housing buildings"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Defend",
+              "detail": "Build walls and place army units to protect your empire"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Conquer",
+              "detail": "Capture flags with your army to control the map and earn bonuses"
             }
           ]
         }
@@ -317,46 +317,46 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about UPD Build An Empire.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is UPD Build An Empire?",
+          "answer": "UPD Build An Empire is a free-to-play Roblox building and progression simulator. You start with a tiny piece of land and grow it into a huge empire by building farms, mines, houses, and castles, producing resources, researching upgrades, and raising your Empire Level."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I make money fast?",
+          "answer": "Focus on resource production first, sell high-value resources instead of stockpiling, and reinvest your coins into more buildings. Offline income keeps your empire earning while you are away."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do I build an army?",
+          "answer": "Build a Barracks and recruit soldiers, Giants, Medics, and siege weapons. Use your army to defend your empire, capture flags, and fight other empires for map control."
         },
         {
           "question": "Where do I find active codes?",
           "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What should I upgrade first?",
+          "answer": "Prioritize resource production, then the Research Lab for unlocks and bonuses, then population housing. Our Best Upgrades guide covers the full priority order."
         }
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Build Your Empire?",
+      "description": "From your first plot of land to map-wide conquest, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
   },
   "bosses": {
     "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | My Seafood Stand Wiki",
-      "description": "Complete boss guides for My Seafood Stand — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
+      "title": "Enemies & Raids - Complete Guide & Walkthrough | UPD Build An Empire Wiki",
+      "description": "Complete enemy and raid guides for UPD Build An Empire - soldiers, Giants, Medics, siege weapons, and PvP empire battles with strategies, counters, and rewards."
     },
-    "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every boss encounter in My Seafood Stand 13 bosses from the tutorial knight Gelum to endgame encounters like the Gelid Dweller and Gauntlet challenges.",
-    "body": "Bosses in My Seafood Stand serve as skill gates and progression milestones. Some, like Gelum, teach you the combat fundamentals during the tutorial. Others, such as the Shikai Spirit and Resurreccion Spirit, are inner-world encounters tied directly to your race's power unlock. Area bosses like Dragonfly, King Croc, and Securis guard access to new zones and rewards. Recent additions include the Rogue Commander with his Minions, the ice-themed The Everfrosted, and four brand new endgame bosses: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts, and the Wandering Swordsman (Junichiro). Each boss has distinct attack patterns and telegraphed moves you need to learn. Use the guides below to prepare for every fight.",
-    "guidesTitle": "Bosses Guides",
+    "overviewTitle": "Enemies & Raids Overview",
+    "overviewDescription": "Complete guides for every enemy and raid encounter in UPD Build An Empire, from early bandit camps to full-scale empire battles and map flag captures.",
+    "body": "Combat in UPD Build An Empire is the other half of your progression. While your civilians produce resources, your army defends your empire and expands your territory. Early on you will face bandit camps and neutral outposts that guard extra resources. As your Empire Level rises, rival empires send soldiers, Giants, Medics, and siege weapons against your walls, and you can push back by capturing flags and taking control of the map. Each unit has a distinct role: soldiers form your frontline, Giants soak up damage, Medics keep your army alive, and siege weapons break through defenses. Use the guides below to build a balanced army, defend your empire, and win every raid.",
+    "guidesTitle": "Enemies & Raids Guides",
     "readMore": "Read more",
     "new": "New",
     "popular": "Popular"
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "UPD Build An Empire Wiki",
+    "about": "UPD Build An Empire Wiki is an independent fan-built guide hub covering empire building, upgrades, resources, army units, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 UPD Build An Empire Wiki. Not affiliated with The Art Of Games or Roblox.",
+    "description": "Free empire-building simulator on Roblox. Build farms, mines, castles, and armies.",
+    "playGame": "Play UPD Build An Empire",
+    "officialDiscord": "Official Roblox Group",
+    "officialYoutube": "Gameplay Showcase",
+    "vvBuilder": "Community Tools",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",
