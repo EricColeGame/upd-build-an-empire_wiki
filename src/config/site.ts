@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.roblox.com/communities/34815389/The-Art-Of-Games",
     youtube: "https://www.youtube.com/watch?v=A5AkAN1FBbo",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt", "de"],
   defaultLocale: "en",
 };
