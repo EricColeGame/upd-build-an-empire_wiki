@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Start from a tiny plot of land and learn the core building, resource, and upgrade loop of UPD Build An Empire."
+          "description": "Claim your first plot of land and learn the core loop: place production buildings, grow your population, sell resources, and research your first upgrade."
         },
         {
           "number": "2",
           "title": "Fastest Progression",
-          "description": "Grow your empire quickly with the most efficient resource, research, and Empire Level routes."
+          "description": "Push your Empire Level with an efficient build order, so every coin you spend raises the rate at which you earn the next one."
         },
         {
           "number": "3",
           "title": "Best Money Methods",
-          "description": "Maximize coins and resources with the best selling, farming, and offline income strategies."
+          "description": "Stack the free +10% group sell bonus with Premium and research upgrades, then reinvest every payout into more production."
         },
         {
           "number": "4",
           "title": "Build an Army",
-          "description": "Recruit soldiers, Giants, Medics, and siege weapons to defend your empire and capture flags."
+          "description": "Recruit soldiers, Giants, Medics, and siege weapons to defend your empire, capture flags, and take control of the map."
         }
       ]
     },
@@ -76,7 +76,7 @@
           "badge": "Beginner",
           "title": "Beginner Guide",
           "description": "Everything you need from your first plot of land to a thriving empire.",
-          "href": "/guide/upd-build-an-empire-beginner-guide-2026"
+          "href": "/guide/upd-build-an-empire-beginner-guide"
         },
         {
           "badge": "Updated",
@@ -87,57 +87,57 @@
         {
           "badge": "Updated",
           "title": "Buildings Database",
-          "description": "Farms, mines, houses, castles, and research buildings with costs and bonuses.",
-          "href": "/guide/upd-build-an-empire-buildings-list"
+          "description": "Farms, mines, houses, castles, and workshops with their roles and priorities.",
+          "href": "/mechanics/upd-build-an-empire-building"
         },
         {
           "badge": "Popular",
           "title": "Best Empire Upgrades",
-          "description": "The optimal order to spend coins on buildings, research, and population.",
-          "href": "/guide/upd-build-an-empire-best-upgrades"
+          "description": "The optimal order to spend coins on production, research, and population.",
+          "href": "/items/upd-build-an-empire-upgrades"
         },
         {
           "badge": "New",
           "title": "Army & Units Guide",
           "description": "Soldiers, Giants, Medics, and siege weapons compared with stats and roles.",
-          "href": "/guide/upd-build-an-empire-army-units-guide"
+          "href": "/items/upd-build-an-empire-units"
         },
         {
           "badge": "Popular",
           "title": "Money Making Guide",
           "description": "Fast coin and resource strategies, including offline income and selling tips.",
-          "href": "/guide/upd-build-an-empire-how-to-get-money-fast"
+          "href": "/progression/upd-build-an-empire-money"
         },
         {
           "badge": "Popular",
           "title": "Map & Flag Guide",
           "description": "Capture flags, control territory, and expand your empire across the map.",
-          "href": "/maps/upd-build-an-empire-map-guide"
+          "href": "/mechanics/upd-build-an-empire-expansion"
         },
         {
           "badge": "New",
-          "title": "Empire Tier List",
-          "description": "All buildings and units ranked by value for early, mid, and late game.",
-          "href": "/tier-list/upd-build-an-empire-tier-list"
+          "title": "Empire Strategy Guide",
+          "description": "Build order, economy, and army tactics for every stage of the game.",
+          "href": "/mechanics/upd-build-an-empire-strategy"
         },
         {
           "badge": "New",
           "title": "Update Log",
           "description": "Every balance change, new building, and event tracked in one place.",
-          "href": "/updates"
+          "href": "/updates/upd-build-an-empire-update"
         }
       ]
     },
     "aboutGame": {
       "title": "What is UPD Build An Empire?",
       "paragraphs": [
-        "UPD Build An Empire is a Roblox building and progression simulator where players start with a tiny piece of land and slowly turn it into a huge empire. Build farms, mines, houses, and castles, grow your population, produce resources, and keep getting richer.",
-        "Research upgrades to unlock stronger buildings and bonuses, then build an army with soldiers, Giants, Medics, and siege weapons. Fight other empires, capture flags, take control of the map, and upgrade your Empire Level to become the best."
+        "UPD Build An Empire is a Roblox empire-building and progression experience developed by The Art of Games and LoordySir. You start on a tiny plot of land and expand it into a sprawling empire of farms, mines, houses, and castles while a growing population of civilians works your territory. Resources are produced, sold for gold, and reinvested into research that unlocks stronger buildings and stacking bonuses.",
+        "The long game is conquest. Six empires compete for dominance in each persistent world, so you recruit soldiers, Giants, Medics, and siege weapons to defend your land, capture flags, and hold territory. Empire Level ties the whole loop together, and because your empire keeps producing while you are offline, steady sessions beat occasional grinding."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "The Art Of Games"
+          "value": "The Art of Games"
         },
         {
           "label": "Platform",
@@ -145,186 +145,264 @@
         },
         {
           "label": "Genre",
-          "value": "Simulation / Tycoon"
+          "value": "Empire Tycoon"
         },
         {
-          "label": "Visits",
-          "value": "22M+"
+          "label": "World Size",
+          "value": "6 Empires"
         },
         {
-          "label": "Favorites",
-          "value": "204K+"
+          "label": "Group Bonus",
+          "value": "+10% Sell"
         },
         {
-          "label": "Max Players",
-          "value": "6"
-        },
-        {
-          "label": "Updates",
-          "value": "Weekly"
+          "label": "Premium Bonus",
+          "value": "+5% Sell"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore UPD Build An Empire Wiki",
-      "description": "Master your empire on Roblox with essential progression guides, active codes, a complete buildings database, and optimal upgrade strategies.",
+      "description": "Every core UPD Build An Empire system in one place: codes and bonuses, the beginner build order, progression, units, buildings, resources, and updates.",
       "modules": [
         {
           "order": 1,
-          "name": "UPD Build An Empire Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, resources, boost items, and exclusive rewards before they expire.",
+          "name": "UPD Build An Empire Codes",
+          "description": "Where UPD Build An Empire codes and permanent bonuses come from, how redemption works in Roblox experiences, and which rewards you can claim today.",
           "href": "/codes/upd-build-an-empire-codes",
-          "displayType": "code-box",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "COMING-SOON - No active codes currently available"
+              "label": "No Active Codes",
+              "detail": "No public codes have been released yet, so the group and Premium sell bonuses are the rewards available today."
             },
             {
-              "label": "Code",
-              "detail": "STAY-TUNED - Check back soon for new codes"
+              "label": "+10% Group",
+              "detail": "Joining the game's official Roblox group grants a free, permanent +10% sell value bonus."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; redeem them in the game settings menu"
+              "label": "+5% Premium",
+              "detail": "Premium adds a further +5% sell value that stacks on top of the group bonus and research upgrades."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start and Grow",
-          "description": "Step-by-step beginner guide covering your first plot of land, building placement, resource production, and early Empire Level progression.",
-          "href": "/guide/upd-build-an-empire-beginner-guide-2026",
-          "displayType": "feature-cards",
+          "name": "UPD Build An Empire Beginner Guide",
+          "description": "A step-by-step opening checklist for your first 15 minutes, covering production, housing, selling, research, and when to buy more land.",
+          "href": "/guide/upd-build-an-empire-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Place your first farm, mine, and house to start producing resources"
+              "label": "1",
+              "detail": "Place your first production building, because nothing else functions without an income stream."
             },
             {
-              "label": "Step 2",
-              "detail": "Sell resources for coins and reinvest into new buildings"
+              "label": "2",
+              "detail": "Add a second production building of a different type to smooth out your early cash flow."
             },
             {
-              "label": "Step 3",
-              "detail": "Research upgrades to unlock stronger buildings and bonuses"
+              "label": "3",
+              "detail": "Build basic housing so civilians can staff the buildings you just placed."
+            },
+            {
+              "label": "4",
+              "detail": "Sell your first batch of resources to convert stored goods into spending power."
+            },
+            {
+              "label": "5",
+              "detail": "Buy your first research upgrade, since a small bonus now compounds for the rest of the session."
+            },
+            {
+              "label": "6",
+              "detail": "Expand your land only when your existing plots are running out of space."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Buildings & Units Tier List",
-          "description": "Complete breakdown of all buildings and army units ranked by value, income, and combat strength.",
-          "href": "/tier-list/upd-build-an-empire-tier-list",
-          "displayType": "tier-grid",
+          "name": "UPD Build An Empire Progression Guide",
+          "description": "How to grow faster by raising resource output, stacking sell value, and pushing Empire Level to unlock stronger buildings and unit tiers.",
+          "href": "/progression/upd-build-an-empire-level-up",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "Castle & Research Lab - Highest long-term value and unlocks"
+              "label": "Output",
+              "detail": "Upgrade farms and mines first, so every purchase raises the rate at which you earn the next coin."
             },
             {
-              "label": "A Tier",
-              "detail": "Gold Mine, Farm & Barracks - Reliable income and army growth"
+              "label": "Sell",
+              "detail": "Sell resources in batches with the group and Premium bonuses active instead of hoarding them."
             },
             {
-              "label": "B Tier",
-              "detail": "House & Warehouse - Solid population and storage upgrades"
+              "label": "Level",
+              "detail": "Push Empire Level, because it gates stronger buildings, unit tiers, and passive bonuses."
             },
             {
-              "label": "C Tier",
-              "detail": "Basic Decorations - Low priority for early progression"
+              "label": "Army",
+              "detail": "Build a mixed army once your economy can fund it, not before it can pay for itself."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your coins: expand production buildings, unlock research, and raise your Empire Level efficiently.",
-          "href": "/guide/upd-build-an-empire-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "UPD Build An Empire Units Guide",
+          "description": "Every army role ranked by battlefield value, from frontline Giants to the Soldiers, Medics, and siege weapons that support them.",
+          "href": "/items/upd-build-an-empire-units",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Resource Production - More farms and mines fund everything else"
+              "label": "S",
+              "detail": "Giants - frontline tanks that absorb damage and lead pushes into contested territory."
             },
             {
-              "label": "Priority 2",
-              "detail": "Research Lab - Unlocks stronger buildings and passive bonuses"
+              "label": "A",
+              "detail": "Soldiers - fast, flexible core infantry that win fights when fielded in numbers."
             },
             {
-              "label": "Priority 3",
-              "detail": "Population Housing - More civilians means faster output"
+              "label": "B",
+              "detail": "Siege Weapons - break fortifications and support flag captures, but need an escort."
+            },
+            {
+              "label": "C",
+              "detail": "Medics - keep squads alive through long engagements but deal almost no damage."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Money Fast",
-          "description": "Top coin-making strategies, selling tips, offline income setups, and efficient resource farming routes.",
-          "href": "/guide/upd-build-an-empire-how-to-get-money-fast",
-          "displayType": "feature-cards",
+          "name": "UPD Build An Empire Buildings Guide",
+          "description": "The building families that run your empire, what each one produces, and the order worth constructing them in.",
+          "href": "/mechanics/upd-build-an-empire-building",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Sell Smart",
-              "detail": "Sell high-value resources when prices are up instead of stockpiling"
+              "label": "Farms",
+              "detail": "Steady resource generation and the safe economic backbone of any new empire."
             },
             {
-              "label": "Offline Income",
-              "detail": "Keep production running so your empire earns while you are away"
+              "label": "Mines",
+              "detail": "Higher-value output that funds construction, research, and your army."
             },
             {
-              "label": "Reinvest",
-              "detail": "Spend coins on new buildings to keep your income curve rising"
+              "label": "Houses",
+              "detail": "Grow the civilian population that staffs every production building you own."
+            },
+            {
+              "label": "Castles",
+              "detail": "Prestige and defense that signal Empire Level progress and help you hold ground."
+            },
+            {
+              "label": "Workshops",
+              "detail": "Hire a builder to speed up construction of your other buildings."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Empire Expansion & Map Control",
-          "description": "Unlock more land, expand your base layout, and capture flags to control territory across the map.",
-          "href": "/guide/upd-build-an-empire-empire-expansion",
-          "displayType": "feature-cards",
+          "name": "UPD Build An Empire Resource Guide",
+          "description": "How to produce, sell, and reinvest resources efficiently, including population as a multiplier and offline production between sessions.",
+          "href": "/mechanics/upd-build-an-empire-resources",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Expand",
-              "detail": "Buy new land plots to fit more production and housing buildings"
+              "label": "Farms",
+              "detail": "Farms produce the steady goods you sell for gold, so keep every slot staffed and working."
             },
             {
-              "label": "Defend",
-              "detail": "Build walls and place army units to protect your empire"
+              "label": "Mines",
+              "detail": "Mines generate the heavier output that pays for bigger builds and research."
             },
             {
-              "label": "Conquer",
-              "detail": "Capture flags with your army to control the map and earn bonuses"
+              "label": "Houses",
+              "detail": "Houses raise population, and population is the multiplier behind all of your output."
+            },
+            {
+              "label": "Selling",
+              "detail": "Goods sitting in storage earn nothing, so sell in batches and reinvest the gold."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "UPD Build An Empire Update Guide",
+          "description": "What each UPD Build An Empire update tends to change, plus a prep routine that keeps your economy ready for the next patch.",
+          "href": "/updates/upd-build-an-empire-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Updates tune the economy-versus-army balance and add new buildings, research, and unit types."
+            },
+            {
+              "label": "Prep",
+              "detail": "Bank resources and push research to the edge of your current tier before a patch lands."
+            },
+            {
+              "label": "Bonus",
+              "detail": "Keep the free +10% group sell bonus and any Premium bonus active on every sale."
+            },
+            {
+              "label": "Offline",
+              "detail": "Your empire keeps producing offline, so log in to claim the stockpile and reinvest it."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "UPD Build An Empire FAQ",
+          "description": "Short answers to the questions new and returning players ask most about codes, money, armies, upgrades, and offline progress.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Codes",
+              "detail": "No public codes exist yet, so rewards currently come from the group and Premium bonuses."
+            },
+            {
+              "label": "Money",
+              "detail": "Sell resources with bonuses active, then reinvest every payout into more production."
+            },
+            {
+              "label": "Army",
+              "detail": "Recruit soldiers, Giants, Medics, and siege weapons to capture flags and hold territory."
+            },
+            {
+              "label": "Offline",
+              "detail": "Production continues while you are away, so return to claim the accumulated resources."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about UPD Build An Empire.",
+      "title": "UPD Build An Empire FAQ",
+      "description": "Quick answers to the most common questions about UPD Build An Empire on Roblox.",
       "items": [
         {
           "question": "What is UPD Build An Empire?",
-          "answer": "UPD Build An Empire is a free-to-play Roblox building and progression simulator. You start with a tiny piece of land and grow it into a huge empire by building farms, mines, houses, and castles, producing resources, researching upgrades, and raising your Empire Level."
+          "answer": "UPD Build An Empire is a free-to-play Roblox empire-building experience by The Art of Games and LoordySir. You start with a tiny plot of land and grow it into a sprawling empire by building farms, mines, houses, and castles, producing resources, researching upgrades, and raising your Empire Level."
         },
         {
-          "question": "How do I make money fast?",
-          "answer": "Focus on resource production first, sell high-value resources instead of stockpiling, and reinvest your coins into more buildings. Offline income keeps your empire earning while you are away."
+          "question": "Does UPD Build An Empire have codes?",
+          "answer": "No public UPD Build An Empire codes have been released yet, and the game's own description highlights Premium perks and group bonuses instead. Until a code system arrives, the reliable rewards are the free +10% group sell bonus and the +5% Premium bonus."
         },
         {
-          "question": "How do I build an army?",
-          "answer": "Build a Barracks and recruit soldiers, Giants, Medics, and siege weapons. Use your army to defend your empire, capture flags, and fight other empires for map control."
+          "question": "How do I make money fast in UPD Build An Empire?",
+          "answer": "Keep farms and mines staffed, sell resources in batches with the group and Premium bonuses active, and reinvest the gold into more production. Because your empire keeps working offline, logging in to claim and reinvest the stockpile is one of the fastest ways to grow."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do I build an army in UPD Build An Empire?",
+          "answer": "Fund your economy first, then recruit soldiers, Giants, Medics, and siege weapons. Send Giants in first, follow with Soldiers, keep Medics behind the line, and use siege weapons to break fortifications and support flag captures."
         },
         {
-          "question": "What should I upgrade first?",
-          "answer": "Prioritize resource production, then the Research Lab for unlocks and bonuses, then population housing. Our Best Upgrades guide covers the full priority order."
+          "question": "Does UPD Build An Empire keep running while I am offline?",
+          "answer": "Yes. Your empire keeps producing resources while you are away, so returning players usually find accumulated goods waiting. Log in to claim them, sell with your bonuses active, and reinvest into the next upgrade."
+        },
+        {
+          "question": "What should I upgrade first in UPD Build An Empire?",
+          "answer": "Prioritize farms and mines for immediate income, then Empire Level to unlock stronger buildings, then housing for population. Research and army upgrades come once your production base can pay for them."
         }
       ]
     },
