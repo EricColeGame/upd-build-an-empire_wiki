@@ -9,14 +9,7 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme",
-    "guide": "Guide",
-    "codes": "Codes",
-    "progression": "Progression",
-    "mechanics": "Mechanics",
-    "items": "Items",
-    "updates": "Updates",
-    "community": "Community"
+    "toggleTheme": "Toggle theme"
   },
   "home": {
     "meta": {
@@ -420,34 +413,13 @@
       "secondary": "Play on Roblox"
     }
   },
-  "guide": {
-    "overviewTitle": "UPD Build An Empire Guides",
-    "overviewDescription": "Beginner walkthroughs, build orders, and tips that carry you from your first plot of land to a working empire in UPD Build An Empire."
-  },
-  "codes": {
-    "overviewTitle": "UPD Build An Empire Codes",
-    "overviewDescription": "All working UPD Build An Empire codes, how redemption works on Roblox, and the permanent group and Premium sell bonuses you can claim right now."
-  },
-  "progression": {
-    "overviewTitle": "UPD Build An Empire Progression",
-    "overviewDescription": "How to earn faster, stack sell value, and push Empire Level in UPD Build An Empire so stronger buildings and unit tiers unlock sooner."
-  },
-  "mechanics": {
-    "overviewTitle": "UPD Build An Empire Mechanics",
-    "overviewDescription": "Land expansion, production buildings, housing, research, and the military systems that drive every session of UPD Build An Empire."
-  },
-  "items": {
-    "overviewTitle": "UPD Build An Empire Items & Upgrades",
-    "overviewDescription": "Upgrades, units, rewards, and unlocks in UPD Build An Empire, with what each one does and when it is worth buying."
-  },
-  "updates": {
-    "overviewTitle": "UPD Build An Empire Updates",
-    "overviewDescription": "Patch notes, release dates, and every balance change and new building added to UPD Build An Empire."
-  },
-  "community": {
-    "overviewTitle": "UPD Build An Empire Community",
-    "overviewDescription": "Discord servers, Reddit threads, and community resources for UPD Build An Empire players."
-  },
+  "guide": {},
+  "codes": {},
+  "progression": {},
+  "mechanics": {},
+  "items": {},
+  "updates": {},
+  "community": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
