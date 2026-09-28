@@ -7,22 +7,9 @@
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
-    "races": "Races",
-    "bosses": "Bosses",
-    "guides": "Guides",
-    "codes": "Codes",
-    "tierList": "Tier List",
-    "maps": "Maps",
-    "skills": "Skills",
-    "updates": "Updates",
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme",
-    "guide": "Guides",
-    "seafood": "Seafood & Recipes",
-    "upgrades": "Upgrades",
-    "gamepasses": "Gamepasses",
-    "community": "Community"
+    "toggleTheme": "Toggle theme"
   },
   "home": {
     "meta": {
@@ -348,19 +335,7 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {
-    "meta": {
-      "title": "Enemies & Raids - Complete Guide & Walkthrough | UPD Build An Empire Wiki",
-      "description": "Complete enemy and raid guides for UPD Build An Empire - soldiers, Giants, Medics, siege weapons, and PvP empire battles with strategies, counters, and rewards."
-    },
-    "overviewTitle": "Enemies & Raids Overview",
-    "overviewDescription": "Complete guides for every enemy and raid encounter in UPD Build An Empire, from early bandit camps to full-scale empire battles and map flag captures.",
-    "body": "Combat in UPD Build An Empire is the other half of your progression. While your civilians produce resources, your army defends your empire and expands your territory. Early on you will face bandit camps and neutral outposts that guard extra resources. As your Empire Level rises, rival empires send soldiers, Giants, Medics, and siege weapons against your walls, and you can push back by capturing flags and taking control of the map. Each unit has a distinct role: soldiers form your frontline, Giants soak up damage, Medics keep your army alive, and siege weapons break through defenses. Use the guides below to build a balanced army, defend your empire, and win every raid.",
-    "guidesTitle": "Enemies & Raids Guides",
-    "readMore": "Read more",
-    "new": "New",
-    "popular": "Popular"
-  },
+  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
