@@ -1,1 +1,486 @@
-{}
+{
+  "site": {
+    "name": "UPD Build An Empire Wiki",
+    "shortName": "UPD Empire",
+    "tagline": "Codes, Guides, Upgrades und Strategien zum Imperiumsaufbau",
+    "description": "Dein ultimativer Guide zu UPD Build An Empire auf Roblox! Entdecke aktive Codes, Anfänger-Guides, Upgrade-Tipps, Baustrategien und den Fortschritt deines Imperiums.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "codes": "Codes",
+    "progression": "Fortschritt",
+    "mechanics": "Mechaniken",
+    "items": "Gegenstände",
+    "updates": "Updates",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "UPD Build An Empire Wiki – Codes, Guide und Updates",
+      "description": "Entdecke im UPD Build An Empire Wiki Codes, Anfänger-Guides, Upgrade-Tipps, Baustrategien und die neuesten Updates des Roblox-Imperiumssimulators."
+    },
+    "hero": {
+      "eyebrow": "Roblox-Imperiumssimulator",
+      "title": "UPD Build An Empire Wiki",
+      "description": "UPD Build An Empire ist ein Bau- und Fortschrittssimulator auf Roblox, in dem Spieler ihr Imperium ausbauen, Upgrades freischalten, Ressourcen sammeln und ihr Reich durch strategischen Ausbau vergrößern.",
+      "stats": [
+        "Über 22 Mio. Besuche",
+        "Gebäude und Einheiten",
+        "Aktive Codes",
+        "Wöchentliche Updates"
+      ],
+      "primaryCta": "Anfänger-Guide",
+      "secondaryCta": "Imperium-Tier-List",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Gameplay-Vorschau"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides ansehen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise in UPD Build An Empire",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfänger-Guide",
+          "description": "Sichere dir dein erstes Grundstück und lerne den Kernablauf: Stelle Produktionsgebäude auf, vergrößere deine Bevölkerung, verkaufe Ressourcen und erforsche dein erstes Upgrade."
+        },
+        {
+          "number": "2",
+          "title": "Schnellster Fortschritt",
+          "description": "Steigere dein Imperiumslevel mit einer effizienten Bauordnung, damit jede ausgegebene Münze die Rate erhöht, mit der du die nächste verdienst."
+        },
+        {
+          "number": "3",
+          "title": "Beste Geldmethoden",
+          "description": "Kombiniere den kostenlosen Gruppen-Verkaufsbonus von +10 % mit Premium und Forschungs-Upgrades und reinvestiere jeden Gewinn in mehr Produktion."
+        },
+        {
+          "number": "4",
+          "title": "Baue eine Armee",
+          "description": "Rekrutiere Soldaten, Giganten, Sanitäter und Belagerungswaffen, um dein Imperium zu verteidigen, Flaggen zu erobern und die Karte zu kontrollieren."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Anfänger-Guide",
+        "Imperiums-Upgrades",
+        "Beste Geldmethoden",
+        "Armee und Verteidigung"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfänger-Guide",
+          "description": "Alles, was du brauchst – vom ersten Grundstück bis zum blühenden Imperium.",
+          "href": "/guide/upd-build-an-empire-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Aktive Codes",
+          "description": "Alle funktionierenden Codes mit Belohnungen – löse sie ein, bevor sie ablaufen.",
+          "href": "/codes"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Gebäudedatenbank",
+          "description": "Farmen, Minen, Häuser, Burgen und Werkstätten mit ihren Aufgaben und Prioritäten.",
+          "href": "/mechanics/upd-build-an-empire-building"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Beste Imperiums-Upgrades",
+          "description": "Die optimale Reihenfolge für Münzen in Produktion, Forschung und Bevölkerung.",
+          "href": "/items/upd-build-an-empire-upgrades"
+        },
+        {
+          "badge": "Neu",
+          "title": "Armee- und Einheiten-Guide",
+          "description": "Soldaten, Giganten, Sanitäter und Belagerungswaffen im Vergleich nach Werten und Rollen.",
+          "href": "/items/upd-build-an-empire-units"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Geldverdien-Guide",
+          "description": "Schnelle Strategien für Münzen und Ressourcen, inklusive Offline-Einkommen und Verkaufstipps.",
+          "href": "/progression/upd-build-an-empire-money"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Karten- und Flaggen-Guide",
+          "description": "Erobere Flaggen, kontrolliere Gebiete und dehne dein Imperium über die ganze Karte aus.",
+          "href": "/mechanics/upd-build-an-empire-expansion"
+        },
+        {
+          "badge": "Neu",
+          "title": "Imperiums-Strategie-Guide",
+          "description": "Bauordnung, Wirtschaft und Armeetaktik für jede Spielphase.",
+          "href": "/mechanics/upd-build-an-empire-strategy"
+        },
+        {
+          "badge": "Neu",
+          "title": "Update-Protokoll",
+          "description": "Jede Balance-Änderung, jedes neue Gebäude und jedes Event an einem Ort.",
+          "href": "/updates/upd-build-an-empire-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist UPD Build An Empire?",
+      "paragraphs": [
+        "UPD Build An Empire ist eine Imperiumsaufbau- und Fortschrittserfahrung auf Roblox, entwickelt von The Art of Games und LoordySir. Du beginnst auf einem winzigen Grundstück und baust es zu einem weitläufigen Imperium aus Farmen, Minen, Häusern und Burgen aus, während eine wachsende Bevölkerung aus Zivilisten auf deinem Gebiet arbeitet. Ressourcen werden produziert, für Gold verkauft und in Forschung reinvestiert, die stärkere Gebäude und stapelbare Boni freischaltet.",
+        "Langfristig geht es um Eroberung. Sechs Imperien kämpfen in jeder persistenten Welt um die Vorherrschaft, also rekrutierst du Soldaten, Giganten, Sanitäter und Belagerungswaffen, um dein Land zu verteidigen, Flaggen zu erobern und Gebiete zu halten. Das Imperiumslevel verbindet den gesamten Ablauf, und weil dein Imperium auch offline weiterproduziert, bringen regelmäßige Sitzungen mehr als gelegentliches Grinden."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "The Art of Games"
+        },
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Imperiums-Tycoon"
+        },
+        {
+          "label": "Weltgröße",
+          "value": "6 Imperien"
+        },
+        {
+          "label": "Gruppen-Bonus",
+          "value": "+10 % Verkauf"
+        },
+        {
+          "label": "Premium-Bonus",
+          "value": "+5 % Verkauf"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "UPD Build An Empire Wiki erkunden",
+      "description": "Jedes Kernsystem von UPD Build An Empire an einem Ort: Codes und Boni, die Bauordnung für Anfänger, Fortschritt, Einheiten, Gebäude, Ressourcen und Updates.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "UPD Build An Empire Codes",
+          "description": "Woher die Codes und dauerhaften Boni von UPD Build An Empire kommen, wie das Einlösen in Roblox-Erfahrungen funktioniert und welche Belohnungen du heute beanspruchen kannst.",
+          "href": "/codes/upd-build-an-empire-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Keine aktiven Codes",
+              "detail": "Es wurden noch keine öffentlichen Codes veröffentlicht, daher sind die Gruppen- und Premium-Verkaufsboni die heute verfügbaren Belohnungen."
+            },
+            {
+              "label": "+10 % Gruppe",
+              "detail": "Der Beitritt zur offiziellen Roblox-Gruppe des Spiels gewährt einen kostenlosen, dauerhaften Bonus von +10 % auf den Verkaufswert."
+            },
+            {
+              "label": "+5 % Premium",
+              "detail": "Premium fügt weitere +5 % Verkaufswert hinzu, die sich auf den Gruppen-Bonus und die Forschungs-Upgrades addieren."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Anfänger-Guide für UPD Build An Empire",
+          "description": "Eine Schritt-für-Schritt-Checkliste für deine ersten 15 Minuten zu Produktion, Wohnraum, Verkauf, Forschung und der Frage, wann du mehr Land kaufen solltest.",
+          "href": "/guide/upd-build-an-empire-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Stelle dein erstes Produktionsgebäude auf, denn ohne Einnahmequelle funktioniert nichts anderes."
+            },
+            {
+              "label": "2",
+              "detail": "Füge ein zweites Produktionsgebäude eines anderen Typs hinzu, um deinen frühen Cashflow zu glätten."
+            },
+            {
+              "label": "3",
+              "detail": "Baue einfachen Wohnraum, damit Zivilisten die Gebäude besetzen können, die du gerade aufgestellt hast."
+            },
+            {
+              "label": "4",
+              "detail": "Verkaufe deine erste Ladung Ressourcen, um gelagerte Waren in Kaufkraft umzuwandeln."
+            },
+            {
+              "label": "5",
+              "detail": "Kaufe dein erstes Forschungs-Upgrade, denn ein kleiner Bonus summiert sich für den Rest der Sitzung."
+            },
+            {
+              "label": "6",
+              "detail": "Erweitere dein Land erst, wenn deine vorhandenen Grundstücke keinen Platz mehr bieten."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Fortschritts-Guide für UPD Build An Empire",
+          "description": "Wie du schneller wächst, indem du die Ressourcenproduktion erhöhst, den Verkaufswert stapelst und das Imperiumslevel steigerst, um stärkere Gebäude und Einheitenstufen freizuschalten.",
+          "href": "/progression/upd-build-an-empire-level-up",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Produktion",
+              "detail": "Verbessere zuerst Farmen und Minen, damit jeder Kauf die Rate erhöht, mit der du die nächste Münze verdienst."
+            },
+            {
+              "label": "Verkauf",
+              "detail": "Verkaufe Ressourcen in Chargen mit aktiven Gruppen- und Premium-Boni, statt sie zu horten."
+            },
+            {
+              "label": "Level",
+              "detail": "Steigere das Imperiumslevel, denn es schaltet stärkere Gebäude, Einheitenstufen und passive Boni frei."
+            },
+            {
+              "label": "Armee",
+              "detail": "Baue eine gemischte Armee, sobald deine Wirtschaft sie finanzieren kann, nicht bevor sie sich selbst trägt."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Einheiten-Guide für UPD Build An Empire",
+          "description": "Jede Armeerolle nach ihrem Wert im Kampf eingestuft, von den Giganten an der Front bis zu den Soldaten, Sanitätern und Belagerungswaffen, die sie unterstützen.",
+          "href": "/items/upd-build-an-empire-units",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Giganten – Fronttanks, die Schaden absorbieren und Vorstöße in umkämpftes Gebiet anführen."
+            },
+            {
+              "label": "A",
+              "detail": "Soldaten – schnelle, flexible Kerninfanterie, die Kämpfe gewinnt, wenn sie in großer Zahl eingesetzt wird."
+            },
+            {
+              "label": "B",
+              "detail": "Belagerungswaffen – durchbrechen Befestigungen und unterstützen Flaggeneroberungen, brauchen aber Geleitschutz."
+            },
+            {
+              "label": "C",
+              "detail": "Sanitäter – halten Trupps in langen Gefechten am Leben, verursachen aber fast keinen Schaden."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Gebäude-Guide für UPD Build An Empire",
+          "description": "Die Gebäudefamilien, die dein Imperium am Laufen halten, was jede produziert und in welcher Reihenfolge sich der Bau lohnt.",
+          "href": "/mechanics/upd-build-an-empire-building",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Farmen",
+              "detail": "Konstante Ressourcenerzeugung und das sichere wirtschaftliche Rückgrat jedes neuen Imperiums."
+            },
+            {
+              "label": "Minen",
+              "detail": "Produktion mit höherem Wert, die Bau, Forschung und deine Armee finanziert."
+            },
+            {
+              "label": "Häuser",
+              "detail": "Vergrößere die Zivilbevölkerung, die jedes deiner Produktionsgebäude besetzt."
+            },
+            {
+              "label": "Burgen",
+              "detail": "Prestige und Verteidigung, die deinen Imperiumslevel-Fortschritt zeigen und dir helfen, Boden zu halten."
+            },
+            {
+              "label": "Werkstätten",
+              "detail": "Stelle einen Baumeister ein, um den Bau deiner anderen Gebäude zu beschleunigen."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Ressourcen-Guide für UPD Build An Empire",
+          "description": "Wie du Ressourcen effizient produzierst, verkaufst und reinvestierst, einschließlich Bevölkerung als Multiplikator und Offline-Produktion zwischen den Sitzungen.",
+          "href": "/mechanics/upd-build-an-empire-resources",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Farmen",
+              "detail": "Farmen produzieren die beständigen Waren, die du für Gold verkaufst, also halte jeden Platz besetzt und in Betrieb."
+            },
+            {
+              "label": "Minen",
+              "detail": "Minen erzeugen die schwerere Produktion, die größere Bauten und Forschung bezahlt."
+            },
+            {
+              "label": "Häuser",
+              "detail": "Häuser erhöhen die Bevölkerung, und die Bevölkerung ist der Multiplikator hinter deiner gesamten Produktion."
+            },
+            {
+              "label": "Verkauf",
+              "detail": "Waren im Lager bringen nichts ein, also verkaufe in Chargen und reinvestiere das Gold."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Update-Guide für UPD Build An Empire",
+          "description": "Was jedes Update von UPD Build An Empire typischerweise ändert, plus eine Vorbereitungsroutine, die deine Wirtschaft für den nächsten Patch bereit hält.",
+          "href": "/updates/upd-build-an-empire-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Updates justieren das Gleichgewicht zwischen Wirtschaft und Armee und fügen neue Gebäude, Forschung und Einheitentypen hinzu."
+            },
+            {
+              "label": "Vorbereitung",
+              "detail": "Horte Ressourcen und treibe die Forschung an die Grenze deiner aktuellen Stufe, bevor ein Patch erscheint."
+            },
+            {
+              "label": "Bonus",
+              "detail": "Halte den kostenlosen Gruppen-Verkaufsbonus von +10 % und jeden Premium-Bonus bei jedem Verkauf aktiv."
+            },
+            {
+              "label": "Offline",
+              "detail": "Dein Imperium produziert offline weiter, also melde dich an, um den Vorrat abzuholen und zu reinvestieren."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "UPD Build An Empire FAQ",
+          "description": "Kurze Antworten auf die häufigsten Fragen neuer und zurückkehrender Spieler zu Codes, Geld, Armeen, Upgrades und Offline-Fortschritt.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Codes",
+              "detail": "Es gibt noch keine öffentlichen Codes, daher stammen die Belohnungen derzeit aus den Gruppen- und Premium-Boni."
+            },
+            {
+              "label": "Geld",
+              "detail": "Verkaufe Ressourcen mit aktiven Boni und reinvestiere jeden Erlös in mehr Produktion."
+            },
+            {
+              "label": "Armee",
+              "detail": "Rekrutiere Soldaten, Giganten, Sanitäter und Belagerungswaffen, um Flaggen zu erobern und Gebiete zu halten."
+            },
+            {
+              "label": "Offline",
+              "detail": "Die Produktion läuft weiter, während du weg bist, also kehre zurück, um die angesammelten Ressourcen abzuholen."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "UPD Build An Empire FAQ",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu UPD Build An Empire auf Roblox.",
+      "items": [
+        {
+          "question": "Was ist UPD Build An Empire?",
+          "answer": "UPD Build An Empire ist eine kostenlose Imperiumsaufbau-Erfahrung auf Roblox von The Art of Games und LoordySir. Du beginnst mit einem winzigen Grundstück und baust es zu einem weitläufigen Imperium aus, indem du Farmen, Minen, Häuser und Burgen errichtest, Ressourcen produzierst, Upgrades erforschst und dein Imperiumslevel erhöhst."
+        },
+        {
+          "question": "Hat UPD Build An Empire Codes?",
+          "answer": "Es wurden noch keine öffentlichen Codes für UPD Build An Empire veröffentlicht, und die Spielbeschreibung hebt stattdessen Premium-Vorteile und Gruppen-Boni hervor. Bis ein Codesystem kommt, sind die zuverlässigen Belohnungen der kostenlose Gruppen-Verkaufsbonus von +10 % und der Premium-Bonus von +5 %."
+        },
+        {
+          "question": "Wie verdiene ich in UPD Build An Empire schnell Geld?",
+          "answer": "Halte Farmen und Minen besetzt, verkaufe Ressourcen in Chargen mit aktiven Gruppen- und Premium-Boni und reinvestiere das Gold in mehr Produktion. Da dein Imperium offline weiterarbeitet, ist das Einloggen, um den Vorrat abzuholen und zu reinvestieren, einer der schnellsten Wege zu wachsen."
+        },
+        {
+          "question": "Wie baue ich in UPD Build An Empire eine Armee auf?",
+          "answer": "Finanziere zuerst deine Wirtschaft und rekrutiere dann Soldaten, Giganten, Sanitäter und Belagerungswaffen. Schicke die Giganten zuerst vor, lasse Soldaten folgen, halte Sanitäter hinter der Linie und nutze Belagerungswaffen, um Befestigungen zu durchbrechen und Flaggeneroberungen zu unterstützen."
+        },
+        {
+          "question": "Läuft UPD Build An Empire weiter, während ich offline bin?",
+          "answer": "Ja. Dein Imperium produziert weiter Ressourcen, während du weg bist, sodass zurückkehrende Spieler meist angesammelte Waren vorfinden. Melde dich an, um sie abzuholen, verkaufe mit aktiven Boni und reinvestiere in das nächste Upgrade."
+        },
+        {
+          "question": "Was sollte ich in UPD Build An Empire zuerst upgraden?",
+          "answer": "Priorisiere Farmen und Minen für sofortiges Einkommen, dann das Imperiumslevel, um stärkere Gebäude freizuschalten, und danach Wohnraum für die Bevölkerung. Forschung und Armee-Upgrades folgen, sobald deine Produktionsbasis sie bezahlen kann."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, dein Imperium aufzubauen?",
+      "description": "Vom ersten Grundstück bis zur Eroberung der ganzen Karte deckt unser Community-Wiki dich mit kostenlosen, aktuellen Guides ab.",
+      "primary": "Lies den Anfänger-Guide",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "UPD Build An Empire Guides",
+    "overviewDescription": "Anfänger-Walkthroughs, Bauordnungen und Tipps, die dich vom ersten Grundstück bis zu einem funktionierenden Imperium in UPD Build An Empire bringen."
+  },
+  "codes": {
+    "overviewTitle": "UPD Build An Empire Codes",
+    "overviewDescription": "Alle aktiven UPD Build An Empire Codes, wie das Einlösen auf Roblox funktioniert und die dauerhaften Gruppen- und Premium-Verkaufsboni, die du jetzt beanspruchen kannst."
+  },
+  "progression": {
+    "overviewTitle": "UPD Build An Empire Fortschritt",
+    "overviewDescription": "Wie du schneller verdienst, Verkaufswert stapelst und das Imperiumslevel in UPD Build An Empire steigerst, damit stärkere Gebäude und Einheitenstufen früher freigeschaltet werden."
+  },
+  "mechanics": {
+    "overviewTitle": "UPD Build An Empire Mechaniken",
+    "overviewDescription": "Landausbau, Produktionsgebäude, Wohnraum, Forschung und die Militärsysteme, die jede Sitzung in UPD Build An Empire antreiben."
+  },
+  "items": {
+    "overviewTitle": "UPD Build An Empire Gegenstände und Upgrades",
+    "overviewDescription": "Upgrades, Einheiten, Belohnungen und Freischaltungen in UPD Build An Empire – mit dem, was jeder bewirkt, und wann er sich lohnt."
+  },
+  "updates": {
+    "overviewTitle": "UPD Build An Empire Updates",
+    "overviewDescription": "Patchnotes, Veröffentlichungstermine und jede Balance-Änderung und jedes neue Gebäude in UPD Build An Empire."
+  },
+  "community": {
+    "overviewTitle": "UPD Build An Empire Community",
+    "overviewDescription": "Discord-Server, Reddit-Threads und Community-Ressourcen für Spieler von UPD Build An Empire."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Ähnliche Artikel",
+    "relatedGuides": "Ähnliche Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "UPD Build An Empire Wiki",
+    "about": "Das UPD Build An Empire Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Imperiumsaufbau, Upgrades, Ressourcen, Armeeeinheiten und wichtigem Spielwissen – für neue und erfahrene Spieler gleichermaßen.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 UPD Build An Empire Wiki. Nicht mit The Art Of Games oder Roblox verbunden.",
+    "description": "Kostenloser Imperiumsaufbau-Simulator auf Roblox. Baue Farmen, Minen, Burgen und Armeen.",
+    "playGame": "UPD Build An Empire spielen",
+    "officialDiscord": "Offizielle Roblox-Gruppe",
+    "officialYoutube": "Gameplay-Vorschau",
+    "beginnerGuide": "Anfänger-Guide",
+    "progressionGuide": "Fortschritts-Guide",
+    "mechanicsGuide": "Mechanik-Guide",
+    "buildGuide": "Bau-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
